@@ -4,6 +4,7 @@ Please follow the below steps to integrate this control in your next project.
 
 <br/><br/>
 <h1>Features</h1>
+
 - Easy & fast audio trimming & modifications process.
 - You can select a range of audio to be trimmed.
 - Ability to record custom audio for trimming process.

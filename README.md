@@ -1,4 +1,7 @@
-<h1>Introduction</h1>
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [iOS app development](https://www.intuz.com/ios-development)
+and [mobile app development](https://www.intuz.com/custom-app-development).
+<br><br>
 INTUZ is presenting an interesting Audio Triming Control to integrate inside your iOS based application. 
 Please follow the below steps to integrate this control in your next project.
 
